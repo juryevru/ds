@@ -6,3 +6,4 @@ d = a | b
 e = a << 2
 f = a >> 2
 print(c, d, e, f)
+
